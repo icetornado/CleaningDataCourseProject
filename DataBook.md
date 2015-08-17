@@ -1,7 +1,7 @@
 <p>Hello</p>
 <table>
 <tr>
-<td>#</td><td>Variable</td><td>Description</td>
+<td>#</td><td>##Variable</td><td>##Description</td>
 </tr>
 <tr>
 <td> 1 </td><td> tBodyAccelerometerMeanX </td><td>Mean of x-axis linear body acceleration in time domain</td>
