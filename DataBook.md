@@ -1,142 +1,142 @@
 <p>Hello</p>
 <table>
 <tr>
-<td> 1 </td><td> tBodyAccelerometerMeanX </td><td>Description here</td>
+<td> 1 </td><td> tBodyAccelerometerMeanX </td><td>Mean of x-axis linear body acceleration in time domain</td>
 </tr>
 <tr>
-<td> 2 </td><td> tBodyAccelerometerMeanY </td><td>Description here</td>
+<td> 2 </td><td> tBodyAccelerometerMeanY </td><td>Mean of y-axis linear body acceleration in time domain</td>
 </tr>
 <tr>
-<td> 3 </td><td> tBodyAccelerometerMeanZ </td><td>Description here</td>
+<td> 3 </td><td> tBodyAccelerometerMeanZ </td><td>Mean of z-axis linear body acceleration in time domain</td>
 </tr>
 <tr>
-<td> 4 </td><td> tBodyAccelerometerStdX </td><td>Description here</td>
+<td> 4 </td><td> tBodyAccelerometerStdX </td><td>Standard deviation of x-axis body linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 5 </td><td> tBodyAccelerometerStdY </td><td>Description here</td>
+<td> 5 </td><td> tBodyAccelerometerStdY </td><td>Standard deviation of y-axis body linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 6 </td><td> tBodyAccelerometerStdZ </td><td>Description here</td>
+<td> 6 </td><td> tBodyAccelerometerStdZ </td><td>Standard deviation of z-axis body linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 7 </td><td> tGravityAccelerometerMeanX </td><td>Description here</td>
+<td> 7 </td><td> tGravityAccelerometerMeanX </td><td>Mean of x-axis linear gravity acceleration in time domain</td>
 </tr>
 <tr>
-<td> 8 </td><td> tGravityAccelerometerMeanY </td><td>Description here</td>
+<td> 8 </td><td> tGravityAccelerometerMeanY </td><td>Mean of y-axis linear gravity acceleration in time domain</td>
 </tr>
 <tr>
-<td> 9 </td><td> tGravityAccelerometerMeanZ </td><td>Description here</td>
+<td> 9 </td><td> tGravityAccelerometerMeanZ </td><td>Mean of z-axis linear gravity acceleration in time domain</td>
 </tr>
 <tr>
-<td> 10 </td><td> tGravityAccelerometerStdX </td><td>Description here</td>
+<td> 10 </td><td> tGravityAccelerometerStdX </td><td>Standard deviation of x-axis gravity linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 11 </td><td> tGravityAccelerometerStdY </td><td>Description here</td>
+<td> 11 </td><td> tGravityAccelerometerStdY </td><td>Standard deviation of y-axis gravity linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 12 </td><td> tGravityAccelerometerStdZ </td><td>Description here</td>
+<td> 12 </td><td> tGravityAccelerometerStdZ </td><td>Standard deviation of z-axis gravity linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 13 </td><td> tBodyAccelerometerJerkMeanX </td><td>Description here</td>
+<td> 13 </td><td> tBodyAccelerometerJerkMeanX </td><td>Mean of x-axis body jerk linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 14 </td><td> tBodyAccelerometerJerkMeanY </td><td>Description here</td>
+<td> 14 </td><td> tBodyAccelerometerJerkMeanY </td><td>Mean of y-axis body jerk linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 15 </td><td> tBodyAccelerometerJerkMeanZ </td><td>Description here</td>
+<td> 15 </td><td> tBodyAccelerometerJerkMeanZ </td><td>Mean of z-axis body jerk linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 16 </td><td> tBodyAccelerometerJerkStdX </td><td>Description here</td>
+<td> 16 </td><td> tBodyAccelerometerJerkStdX </td><td>Standard deviation of x-axis body jerk linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 17 </td><td> tBodyAccelerometerJerkStdY </td><td>Description here</td>
+<td> 17 </td><td> tBodyAccelerometerJerkStdY </td><td>Standard deviation of y-axis body jerk linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 18 </td><td> tBodyAccelerometerJerkStdZ </td><td>Description here</td>
+<td> 18 </td><td> tBodyAccelerometerJerkStdZ </td><td>Standard deviation of z-axis body jerk linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 19 </td><td> tBodyGyroscopeMeanX </td><td>Description here</td>
+<td> 19 </td><td> tBodyGyroscopeMeanX </td><td>Mean of x-axis body angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 20 </td><td> tBodyGyroscopeMeanY </td><td>Description here</td>
+<td> 20 </td><td> tBodyGyroscopeMeanY </td><td>Mean of y-axis body angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 21 </td><td> tBodyGyroscopeMeanZ </td><td>Description here</td>
+<td> 21 </td><td> tBodyGyroscopeMeanZ </td><td>Mean of z-axis body angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 22 </td><td> tBodyGyroscopeStdX </td><td>Description here</td>
+<td> 22 </td><td> tBodyGyroscopeStdX </td><td>Standard deviation of x-axis body angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 23 </td><td> tBodyGyroscopeStdY </td><td>Description here</td>
+<td> 23 </td><td> tBodyGyroscopeStdY </td><td>Standard deviation of y-axis body angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 24 </td><td> tBodyGyroscopeStdZ </td><td>Description here</td>
+<td> 24 </td><td> tBodyGyroscopeStdZ </td><td>Standard deviation of z-axis body angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 25 </td><td> tBodyGyroscopeJerkMeanX </td><td>Description here</td>
+<td> 25 </td><td> tBodyGyroscopeJerkMeanX </td><td>Mean of x-axis body jerk angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 26 </td><td> tBodyGyroscopeJerkMeanY </td><td>Description here</td>
+<td> 26 </td><td> tBodyGyroscopeJerkMeanY </td><td>Mean of y-axis body jerk angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 27 </td><td> tBodyGyroscopeJerkMeanZ </td><td>Description here</td>
+<td> 27 </td><td> tBodyGyroscopeJerkMeanZ </td><td>Mean of z-axis body jerk angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 28 </td><td> tBodyGyroscopeJerkStdX </td><td>Description here</td>
+<td> 28 </td><td> tBodyGyroscopeJerkStdX </td><td>Standard deviation of x-axis body jerk angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 29 </td><td> tBodyGyroscopeJerkStdY </td><td>Description here</td>
+<td> 29 </td><td> tBodyGyroscopeJerkStdY </td><td>Standard deviation of y-axis body jerk angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 30 </td><td> tBodyGyroscopeJerkStdZ </td><td>Description here</td>
+<td> 30 </td><td> tBodyGyroscopeJerkStdZ </td><td>Standard deviation of z-axis body jerk angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 31 </td><td> tBodyAccelerometerMagnitudeMean </td><td>Description here</td>
+<td> 31 </td><td> tBodyAccelerometerMagnitudeMean </td><td>Mean of magnitude of body linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 32 </td><td> tBodyAccelerometerMagnitudeStd </td><td>Description here</td>
+<td> 32 </td><td> tBodyAccelerometerMagnitudeStd </td><td>Standard deviation of magnitude of body linear acceleration in time domain</td>
 </tr>
 <tr>
-<td> 33 </td><td> tGravityAccelerometerMagnitudeMean </td><td>Description here</td>
+<td> 33 </td><td> tGravityAccelerometerMagnitudeMean </td><td>Mean of magnitude of gravity acceleration in time domain</td>
 </tr>
 <tr>
-<td> 34 </td><td> tGravityAccelerometerMagnitudeStd </td><td>Description here</td>
+<td> 34 </td><td> tGravityAccelerometerMagnitudeStd </td><td>Standard deviation of magnitude of gravity acceleration in time domain</td>
 </tr>
 <tr>
-<td> 35 </td><td> tBodyAccelerometerJerkMagnitudeMean </td><td>Description here</td>
+<td> 35 </td><td> tBodyAccelerometerJerkMagnitudeMean </td><td>Mean of magnitude of body jerk acceleration in time domain</td>
 </tr>
 <tr>
-<td> 36 </td><td> tBodyAccelerometerJerkMagnitudeStd </td><td>Description here</td>
+<td> 36 </td><td> tBodyAccelerometerJerkMagnitudeStd </td><td>Standard deviation of magnitude of body jerk acceleration in time domain</td>
 </tr>
 <tr>
-<td> 37 </td><td> tBodyGyroscopeMagnitudeMean </td><td>Description here</td>
+<td> 37 </td><td> tBodyGyroscopeMagnitudeMean </td><td>Mean of magnitude of body angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 38 </td><td> tBodyGyroscopeMagnitudeStd </td><td>Description here</td>
+<td> 38 </td><td> tBodyGyroscopeMagnitudeStd </td><td>Standard deviation of magnitude of body angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 39 </td><td> tBodyGyroscopeJerkMagnitudeMean </td><td>Description here</td>
+<td> 39 </td><td> tBodyGyroscopeJerkMagnitudeMean </td><td>Mean of magnitude of body jerk angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 40 </td><td> tBodyGyroscopeJerkMagnitudeStd </td><td>Description here</td>
+<td> 40 </td><td> tBodyGyroscopeJerkMagnitudeStd </td><td>Standard deviation of magnitude of body jerk angular velocity in time domain</td>
 </tr>
 <tr>
-<td> 41 </td><td> fBodyAccelerometerMeanX </td><td>Description here</td>
+<td> 41 </td><td> fBodyAccelerometerMeanX </td><td>Mean of x-axis linear body acceleration in frequency domain</td>
 </tr>
 <tr>
-<td> 42 </td><td> fBodyAccelerometerMeanY </td><td>Description here</td>
+<td> 42 </td><td> fBodyAccelerometerMeanY </td><td>Mean of y-axis linear body acceleration in frequency domain</td>
 </tr>
 <tr>
-<td> 43 </td><td> fBodyAccelerometerMeanZ </td><td>Description here</td>
+<td> 43 </td><td> fBodyAccelerometerMeanZ </td><td>Mean of z-axis linear body acceleration in frequency domain</td>
 </tr>
 <tr>
-<td> 44 </td><td> fBodyAccelerometerStdX </td><td>Description here</td>
+<td> 44 </td><td> fBodyAccelerometerStdX </td><td>Standard deviation of x-axis linear body acceleration in frequency domain</td>
 </tr>
 <tr>
-<td> 45 </td><td> fBodyAccelerometerStdY </td><td>Description here</td>
+<td> 45 </td><td> fBodyAccelerometerStdY </td><td>Standard deviation of y-axis linear body acceleration in frequency domain</td>
 </tr>
 <tr>
-<td> 46 </td><td> fBodyAccelerometerStdZ </td><td>Description here</td>
+<td> 46 </td><td> fBodyAccelerometerStdZ </td><td>Standard deviation of z-axis linear body acceleration in frequency domain</td>
 </tr>
 <tr>
 <td> 47 </td><td> fBodyAccelerometerMeanFreqX </td><td>Description here</td>
