@@ -1,5 +1,9 @@
 library("dplyr")
 
+## ----------------
+## - Functions ----
+## ----------------
+
 ## This function takes a list of varibale names as an input
 ## cleaning and replacing variable names with better ones
 doCleanNames <- function(x) {
@@ -43,6 +47,9 @@ doJoinTables <- function(folder) {
     
     return(subData)
 }
+## ----------------
+## - Main ----
+## ----------------
 
 ## get activity names from activity_labels
 rawActivities <- read.table("./UCI HAR Dataset/activity_labels.txt")
