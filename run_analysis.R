@@ -52,5 +52,7 @@ testData <- doJoinTables('test')
 bigData <- rbind(trainData, testData)
 
 bigData <- group_by(bigData, subjectID, activity)
+# register mean call back for summarise_each to call
+funs(mean, "mean", mean(., na.rm = TRUE))
 tidyData <- summarise_each(bigData, funs(mean))
 write.table(tidyData, file = "tidydata.txt", row.names = FALSE)
