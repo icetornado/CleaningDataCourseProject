@@ -13,6 +13,19 @@
       <li>function doCleanNames() takes a list of variable names as the only input parameter; makes those names free of unvalid characters; and transforms them into  more meaningful names</li>
     </ul>
   </li>
+  <li>
+    Step by step:
+    <ul>
+      <li>Read "activities" from "activity_labels.txt"</li>
+      <li>Read original variable names from "features.txt", call doCleanNames function to get a dataframe of measureNames which contains clean variable names</li>
+      <li>Get train data set by calling doJoinTables() function with input parameter as "train"</li>
+      <li>Get test data set by calling doJoinTables() function with input parameter as "test"</li>
+      <li>Combine train and test data into bigData dataframe</li>
+      <li>Group bigData by subjectID and activity</li>
+      <li>Run summarise_each to get mean values of each variables of each activity of each subject</li>
+      <li>Write output of summarise_each to a text file</li>
+    </ul>
+  </li>
 </ul>
 
 
