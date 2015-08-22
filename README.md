@@ -1,9 +1,9 @@
 # Getting and Cleaning Data
 ## CourseProject
 
-<strong>Objective:</strong>  Combining, extracting and producing a clean, tidy data set from data collected from the accelerometers from the Samsung Galaxy S smartphone.
+<p><strong>Objective:</strong>  Combining, extracting and producing a clean, tidy data set from data collected from the accelerometers from the Samsung Galaxy S smartphone.</p>
 
-<strong>Approach:</strong>
+<p><strong>Approach:</strong></p>
 <ul>
   <li>Use dplyr package to mutate, to group and to summerise data</li>
   <li>
@@ -28,5 +28,5 @@
   </li>
 </ul>
 
-<strong>Results:</strong> A tidy data set of 10,299 observations and 68 variables.
+<p><strong>Results:</strong> The script generates a data set of 180 observations and 68 variables. Within the data set, each measurement (variable) is in one column; and each different observation of that variable is in a different row.  Therefore the data set is tidy. </p>
 
