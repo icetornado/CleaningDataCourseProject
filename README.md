@@ -17,7 +17,7 @@
     Code execution - Step by step:
     <ul>
       <li>Read "activities" from the file "activity_labels.txt"</li>
-      <li>Read original variable names from "features.txt", call doCleanNames function to get a dataframe of measureNames which contains clean variable names</li>
+      <li>Read original variable names from "features.txt".  Pick variable with names contain either "-mean()" or "-std()" string. Then call doCleanNames function to get a dataframe of measureNames which contains clean variable names</li>
       <li>Get train data set by calling doJoinTables() function with input parameter as "train"</li>
       <li>Get test data set by calling doJoinTables() function with input parameter as "test"</li>
       <li>Combine train and test data into bigData dataframe</li>
