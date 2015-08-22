@@ -28,5 +28,5 @@
   </li>
 </ul>
 
-<p><strong>Results:</strong> The script generates a data set of 180 observations and 68 variables. Within the data set, each measurement (variable) is in one column; and each different observation of that variable is in a different row.  Therefore the data set is tidy. </p>
+<p><strong>Results:</strong> The script generates a data set of 180 observations (30 voluteers x 6 activities) and 68 variables. Within the data set, each measurement (variable) is in one column; and each different observation of that variable is in a different row.  Therefore the data set is tidy. </p>
 
