@@ -28,5 +28,5 @@
   </li>
 </ul>
 
-
+<strong>Results:</strong> A tidy data set of 10,299 observations and 68 variables.
 
