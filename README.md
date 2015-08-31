@@ -1,7 +1,7 @@
 # Getting and Cleaning Data
 ## CourseProject
 
-<p><strong>Objective:</strong>  Combining, extracting and producing a clean, tidy data set from data collected from the accelerometers from the Samsung Galaxy S smartphone.</p>
+<p><strong>Objective:</strong>  Combining, extracting and producing a clean, tidy data set from data collected from the accelerometer and the gyroscope of the Samsung Galaxy S smartphone.</p>
 
 <p><strong>Approach:</strong></p>
 <ul>
@@ -10,7 +10,7 @@
     There are two sub-functions in the script
     <ul>
       <li><i>function doJoinTables()</i> combines data from three files for each dataset into one single dataframe (as output).  It takes one input parameter, folder with two possbile values are "train", "test"; and it joins data from y_{folder}, X_{folder} and subject_{folder} to produce a dataframe which contain data from either "test" or "train" set. </li>
-      <li><i>function doCleanNames()</i> scans through the list of variable names for any invalid characters and any obsucred abbreviation; then perform either stripping those invalid characters out or replace those abbreviations with more descriptive names.  The function takes a list of variable names as the only input parameter; and return a list of "clean" names</li>
+      <li><i>function doCleanNames()</i> scans through the list of variable names for any invalid characters and any obscured abbreviation; then perform either stripping those invalid characters out or replacing those abbreviations with more descriptive names.  The function takes a list of variable names as the only input parameter; and return a list of "clean" names</li>
     </ul>
   </li>
   <li>
@@ -28,5 +28,5 @@
   </li>
 </ul>
 
-<p><strong>Results:</strong> The script generates a data set of 180 observations (30 voluteers x 6 activities) and 68 variables. Within the data set, each measurement (variable) is in one column; and each different observation of that variable is in a different row.  Therefore the data set is tidy. </p>
+<p><strong>Results:</strong> The script generates a data set of 180 observations (30 voluteers x 6 activities) and 68 variables. Within this data set, each measurement (variable) is in one column; and each different observation of that variable is in a different row.  Therefore the data set is tidy. </p>
 
